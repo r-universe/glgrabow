@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "spreval"]
+	path = spreval
+	url = https://github.com/glgrabow/spreval
+	shallow = true
+	registered = true
